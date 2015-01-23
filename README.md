@@ -34,8 +34,7 @@ and decile, with a sheet for each food stuff and a final sheet for total
 expenditure.
 
 This was constructed in colaboration with cookit (cookit.co) in support of a
-funding bit.  It was extended in support of a white paper they're writing,
-and they're fine with this code being here.
+funding bit.  It was extended in support of a white paper they're writing.
 
 Copyright (C) 2015  Christopher Joseph Davie
 
