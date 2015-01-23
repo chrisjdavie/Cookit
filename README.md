@@ -13,6 +13,16 @@ It needs the datafiles from the above link converted to excel and saved in
 a folder.  This is also all from an Eclipse workspace, so won't work as 
 standard Python straight out of the box.
 
+Issues -
+
+This assumes the weekly fruit and veg consumption is spread evenly out over
+each day.  The 5-a-day will be effected if people binge on fruit juice on a
+single day, say, as only 1 of your 5 a day can come from fruit juice.  
+
+Also, no demographic, on average, consumes more that 1 portion of fruit juice
+a day.  I therefore haven't included this as an exception, but if fruit juice
+consumption jumps, that if statement will need to go in there somewhere.
+
 for_salt_2
 
 This takes the same dataset and extracts how much of various unhealthy 
